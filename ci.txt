@@ -1,0 +1,1 @@
+'echo "deb https://packages.gitlab.com/gitlab/gitlab-ce/ubuntu/ $(lsb_release -cs) main" > /etc/apt/sources.list.d/gitlab_gitlab-ce.list'
